@@ -1,4 +1,4 @@
-"Gemeente","Aantal"
+"Gemeente","Leden_per_10.000_inwoners"
 "'s-Gravenhage",0
 "'s-Hertogenbosch",0
 "Aa en Hunze",0
@@ -16,7 +16,7 @@
 "Ameland",0
 "Amersfoort",0
 "Amstelveen",0
-"Amsterdam",2
+"Amsterdam",0.02
 "Apeldoorn",0
 "Appingedam",0
 "Arnhem",0
@@ -142,7 +142,7 @@
 "Heusden",0
 "Hillegom",0
 "Hilvarenbeek",0
-"Hilversum",1
+"Hilversum",0.11
 "Hoeksche Waard",0
 "Hof van Twente",0
 "Hollands Kroon",0
@@ -154,7 +154,7 @@
 "Hulst",0
 "IJsselstein",0
 "Kaag en Braassem",0
-"Kampen",1
+"Kampen",0.19
 "Kapelle",0
 "Katwijk",0
 "Kerkrade",0
@@ -164,7 +164,7 @@
 "Laarbeek",0
 "Landerd",0
 "Landgraaf",0
-"Landsmeer",1
+"Landsmeer",0.87
 "Langedijk",0
 "Lansingerland",0
 "Laren",0
@@ -293,7 +293,7 @@
 "Uitgeest",0
 "Uithoorn",0
 "Urk",0
-"Utrecht",1
+"Utrecht",0.03
 "Utrechtse Heuvelrug",0
 "Vaals",0
 "Valkenburg aan de Geul",0
