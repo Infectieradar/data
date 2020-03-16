@@ -117,7 +117,7 @@
 "Haaksbergen",0,158,0
 "Haaren",0,788,0
 "Haarlem",0,392,0
-"Haarlemmermeer",0,394,0
+"Haarlemmermeer",0.06,394,1
 "Halderberge",0,1655,0
 "Hardenberg",0,160,0
 "Harderwijk",0,243,0
@@ -142,7 +142,7 @@
 "Heusden",0,797,0
 "Hillegom",0,534,0
 "Hilvarenbeek",0,798,0
-"Hilversum",0.11,402,1
+"Hilversum",0.33,402,3
 "Hoeksche Waard",0,1963,0
 "Hof van Twente",0,1735,0
 "Hollands Kroon",0,1911,0
@@ -172,7 +172,7 @@
 "Leiden",0,546,0
 "Leiderdorp",0,547,0
 "Leidschendam-Voorburg",0,1916,0
-"Lelystad",0,995,0
+"Lelystad",0.13,995,1
 "Leudal",0,1640,0
 "Leusden",0,327,0
 "Lingewaard",0,1705,0
@@ -202,10 +202,10 @@
 "Mook en Middelaar",0,944,0
 "Neder-Betuwe",0,1740,0
 "Nederweert",0,946,0
-"Nieuwegein",0,356,0
+"Nieuwegein",0.16,356,1
 "Nieuwkoop",0,569,0
 "Nijkerk",0,267,0
-"Nijmegen",0,268,0
+"Nijmegen",0.06,268,1
 "Nissewaard",0,1930,0
 "Noardeast-Fryslân",0,1970,0
 "Noord-Beveland",0,1695,0
@@ -293,7 +293,7 @@
 "Uitgeest",0,450,0
 "Uithoorn",0,451,0
 "Urk",0,184,0
-"Utrecht",0.03,344,1
+"Utrecht",0.09,344,3
 "Utrechtse Heuvelrug",0,1581,0
 "Vaals",0,981,0
 "Valkenburg aan de Geul",0,994,0
@@ -341,10 +341,10 @@
 "Wormerland",0,880,0
 "Woudenberg",0,351,0
 "Zaanstad",0,479,0
-"Zaltbommel",0,297,0
+"Zaltbommel",0.35,297,1
 "Zandvoort",0,473,0
 "Zeewolde",0,50,0
-"Zeist",0,355,0
+"Zeist",0.16,355,1
 "Zevenaar",0,299,0
 "Zoetermeer",0,637,0
 "Zoeterwoude",0,638,0
