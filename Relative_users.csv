@@ -1,356 +1,356 @@
 "Gemeente","Leden_per_10000_inwoners","gem_code","Aantal"
-"'s-Gravenhage",1.13,518,61
-"'s-Hertogenbosch",1.88,796,29
-"Aa en Hunze",0.79,1680,2
-"Aalsmeer",2.84,358,9
-"Aalten",0.37,197,1
-"Achtkarspelen",1.08,59,3
-"Alblasserdam",1,482,2
-"Albrandswaard",3.56,613,9
-"Alkmaar",1.66,361,18
-"Almelo",1.24,141,9
-"Almere",1.44,34,30
-"Alphen-Chaam",0,1723,0
-"Alphen aan den Rijn",1.35,484,15
-"Altena",0,1959,0
+"'s-Gravenhage",3.72,518,200
+"'s-Hertogenbosch",6.1,796,94
+"Aa en Hunze",3.54,1680,9
+"Aalsmeer",4.73,358,15
+"Aalten",1.11,197,3
+"Achtkarspelen",4.67,59,13
+"Alblasserdam",2.99,482,6
+"Albrandswaard",7.91,613,20
+"Alkmaar",3.87,361,42
+"Almelo",3.98,141,29
+"Almere",4.67,34,97
+"Alphen-Chaam",3.94,1723,4
+"Alphen aan den Rijn",3.6,484,40
+"Altena",2.53,1959,14
 "Ameland",0,60,0
-"Amersfoort",1.34,307,21
-"Amstelveen",1.54,362,14
-"Amsterdam",1.61,363,139
-"Apeldoorn",1.66,200,27
-"Appingedam",0,3,0
-"Arnhem",1.19,202,19
-"Assen",0.88,106,6
-"Asten",1.2,743,2
+"Amersfoort",5.25,307,82
+"Amstelveen",3.63,362,33
+"Amsterdam",3.83,363,330
+"Apeldoorn",5.48,200,89
+"Appingedam",0.85,3,1
+"Arnhem",4.96,202,79
+"Assen",4.56,106,31
+"Asten",7.18,743,12
 "Baarle-Nassau",1.46,744,1
-"Baarn",2.83,308,7
-"Barendrecht",0.62,489,3
-"Barneveld",0.69,203,4
-"Beek",0,888,0
-"Beekdaelen",1.12,1954,4
-"Beemster",1.03,370,1
-"Beesel",0,889,0
-"Berg en Dal",0.29,1945,1
-"Bergeijk",4.33,1724,8
-"Bergen (L.)",0.76,893,1
-"Bergen (NH.)",3.34,373,10
-"Bergen op Zoom",0.6,748,4
-"Berkelland",1.37,1859,6
-"Bernheze",1.95,1721,6
-"Best",0.34,753,1
-"Beuningen",0.77,209,2
-"Beverwijk",0.73,375,3
-"Bladel",0,1728,0
-"Blaricum",2.68,376,3
-"Bloemendaal",2.14,377,5
-"Bodegraven-Reeuwijk",0.58,1901,2
-"Boekel",0,755,0
-"Borger-Odoorn",1.18,1681,3
-"Borne",0.43,147,1
-"Borsele",0,654,0
-"Boxmeer",1.03,756,3
-"Boxtel",2.93,757,9
-"Breda",0.71,758,13
-"Brielle",0.58,501,1
-"Bronckhorst",0.83,1876,3
-"Brummen",0,213,0
-"Brunssum",0.36,899,1
-"Bunnik",1.97,312,3
-"Bunschoten",0,313,0
-"Buren",0.75,214,2
-"Capelle aan den IJssel",1.95,502,13
-"Castricum",3.35,383,12
-"Coevorden",0.85,109,3
-"Cranendonck",0.98,1706,2
-"Cuijk",1.2,1684,3
-"Culemborg",0.35,216,1
-"Dalfsen",0.7,148,2
-"Dantumadiel",0,1891,0
-"De Bilt",2.1,310,9
-"De Fryske Marren",1.75,1940,9
-"De Ronde Venen",1.14,736,5
-"De Wolden",0.83,1690,2
-"Delft",1.36,503,14
-"Delfzijl",1.21,10,3
-"Den Helder",1.08,400,6
-"Deurne",2.16,762,7
-"Deventer",0.5,150,5
-"Diemen",1.71,384,5
-"Dinkelland",0,1774,0
-"Doesburg",7.17,221,8
-"Doetinchem",1.39,222,8
-"Dongen",1.15,766,3
-"Dordrecht",0.42,505,5
-"Drechterland",1.02,498,2
-"Drimmelen",1.84,1719,5
-"Dronten",1.72,303,7
-"Druten",0.53,225,1
-"Duiven",0.39,226,1
-"Echt-Susteren",1.26,1711,4
-"Edam-Volendam",0.55,385,2
-"Ede",0.43,228,5
-"Eemnes",1.1,317,1
-"Eersel",0,770,0
-"Eijsden-Margraten",0.39,1903,1
-"Eindhoven",1.64,772,38
-"Elburg",0.87,230,2
-"Emmen",1.4,114,15
-"Enkhuizen",2.7,388,5
-"Enschede",1.51,153,24
-"Epe",0,232,0
-"Ermelo",0.74,233,2
-"Etten-Leur",0.91,777,4
-"Geertruidenberg",2.32,779,5
-"Geldrop-Mierlo",1.26,1771,5
-"Gemert-Bakel",0.99,1652,3
-"Gennep",0,907,0
-"Gilze en Rijen",1.89,784,5
-"Goeree-Overflakkee",0.2,1924,1
-"Goes",0.53,664,2
-"Goirle",0.42,785,1
-"Gooise Meren",2.08,1942,12
-"Gorinchem",1.91,512,7
-"Gouda",1.78,513,13
-"Grave",1.6,786,2
-"Groningen",2.12,14,49
-"Gulpen-Wittem",0,1729,0
-"Haaksbergen",0.82,158,2
-"Haaren",2.82,788,4
-"Haarlem",2.23,392,36
-"Haarlemmermeer",1.56,394,24
-"Halderberge",0.66,1655,2
-"Hardenberg",1.16,160,7
-"Harderwijk",1.47,243,7
-"Hardinxveld-Giessendam",0.55,523,1
-"Harlingen",0.63,72,1
-"Hattem",0,244,0
-"Heemskerk",1.02,396,4
-"Heemstede",0,397,0
-"Heerde",1.08,246,2
-"Heerenveen",1,74,5
-"Heerhugowaard",2.12,398,12
-"Heerlen",0.58,917,5
-"Heeze-Leende",1.88,1658,3
-"Heiloo",1.28,399,3
-"Hellendoorn",0.28,163,1
-"Hellevoetsluis",0.25,530,1
-"Helmond",0.76,794,7
-"Hendrik-Ido-Ambacht",1.29,531,4
-"Hengelo",0.62,164,5
-"Het Hogeland",1.25,1966,6
-"Heumen",0.61,252,1
-"Heusden",0.68,797,3
-"Hillegom",1.37,534,3
-"Hilvarenbeek",0,798,0
-"Hilversum",2.11,402,19
-"Hoeksche Waard",1.27,1963,11
-"Hof van Twente",0.57,1735,2
-"Hollands Kroon",2.3,1911,11
-"Hoogeveen",1.8,118,10
-"Hoorn",0.82,405,6
-"Horst aan de Maas",0.24,1507,1
-"Houten",2.4,321,12
-"Huizen",2.18,406,9
-"Hulst",0.73,677,2
-"IJsselstein",1.17,353,4
-"Kaag en Braassem",1.49,1884,4
-"Kampen",1.49,166,8
-"Kapelle",0,678,0
-"Katwijk",0.92,537,6
-"Kerkrade",0.44,928,2
-"Koggenland",0,1598,0
-"Krimpen aan den IJssel",1.02,542,3
-"Krimpenerwaard",0.18,1931,1
-"Laarbeek",0.9,1659,2
-"Landerd",0.64,1685,1
-"Landgraaf",0.53,882,2
-"Landsmeer",0.87,415,1
-"Langedijk",0.71,416,2
-"Lansingerland",0.97,1621,6
-"Laren",3.57,417,4
-"Leeuwarden",0.81,80,10
-"Leiden",3.28,546,41
-"Leiderdorp",1.11,547,3
-"Leidschendam-Voorburg",1.06,1916,8
-"Lelystad",2.57,995,20
-"Leudal",1.4,1640,5
-"Leusden",2.33,327,7
-"Lingewaard",0.86,1705,4
-"Lisse",0.44,553,1
-"Lochem",0.3,262,1
-"Loon op Zand",0.86,809,2
-"Lopik",0.69,331,1
-"Loppersum",1.04,24,1
-"Losser",0.44,168,1
-"Maasdriel",1.62,263,4
-"Maasgouw",2.11,1641,5
-"Maassluis",1.53,556,5
-"Maastricht",1.15,935,14
-"Medemblik",2.01,420,9
-"Meerssen",0.53,938,1
-"Meierijstad",1.36,1948,11
-"Meppel",2.38,119,8
-"Middelburg",0.41,687,2
-"Midden-Delfland",1.03,1842,2
-"Midden-Drenthe",1.21,1731,4
-"Midden-Groningen",0.66,1952,4
-"Mill en Sint Hubert",0,815,0
-"Moerdijk",0.81,1709,3
-"Molenlanden",0.23,1978,1
-"Montferland",0.56,1955,2
-"Montfoort",0,335,0
-"Mook en Middelaar",1.28,944,1
-"Neder-Betuwe",0.83,1740,2
-"Nederweert",1.18,946,2
-"Nieuwegein",0.79,356,5
-"Nieuwkoop",0.35,569,1
-"Nijkerk",0.47,267,2
-"Nijmegen",1.58,268,28
-"Nissewaard",5.78,1930,49
-"Noardeast-Fryslân",0.66,1970,3
-"Noord-Beveland",1.37,1695,1
-"Noordenveld",2.88,1699,9
-"Noordoostpolder",0.64,171,3
-"Noordwijk",0.93,575,4
-"Nuenen, Gerwen en Nederwetten",1.73,820,4
-"Nunspeet",0.36,302,1
-"Oegstgeest",2.46,579,6
-"Oirschot",0,823,0
-"Oisterwijk",1.53,824,4
-"Oldambt",2.36,1895,9
-"Oldebroek",0,269,0
-"Oldenzaal",0.63,173,2
-"Olst-Wijhe",0,1773,0
-"Ommen",1.12,175,2
-"Oost Gelre",1.01,1586,3
-"Oosterhout",0.72,826,4
-"Ooststellingwerf",0.78,85,2
-"Oostzaan",1.03,431,1
-"Opmeer",1.7,432,2
-"Opsterland",0.67,86,2
-"Oss",1.75,828,16
-"Oude IJsselstreek",0.25,1509,1
-"Ouder-Amstel",2.16,437,3
+"Baarn",5.65,308,14
+"Barendrecht",3.49,489,17
+"Barneveld",3.62,203,21
+"Beek",3.77,888,6
+"Beekdaelen",2.24,1954,8
+"Beemster",2.05,370,2
+"Beesel",0.74,889,1
+"Berg en Dal",2.87,1945,10
+"Bergeijk",7.03,1724,13
+"Bergen (L.)",1.52,893,2
+"Bergen (NH.)",5.67,373,17
+"Bergen op Zoom",3.14,748,21
+"Berkelland",4.33,1859,19
+"Bernheze",7.8,1721,24
+"Best",6.04,753,18
+"Beuningen",4.25,209,11
+"Beverwijk",3.4,375,14
+"Bladel",3.96,1728,8
+"Blaricum",8.04,376,9
+"Bloemendaal",4.27,377,10
+"Bodegraven-Reeuwijk",3.77,1901,13
+"Boekel",4.72,755,5
+"Borger-Odoorn",3.55,1681,9
+"Borne",3.02,147,7
+"Borsele",1.32,654,3
+"Boxmeer",7.91,756,23
+"Boxtel",8.78,757,27
+"Breda",5.06,758,93
+"Brielle",4.66,501,8
+"Bronckhorst",1.93,1876,7
+"Brummen",2.9,213,6
+"Brunssum",2.14,899,6
+"Bunnik",7.24,312,11
+"Bunschoten",1.85,313,4
+"Buren",3.4,214,9
+"Capelle aan den IJssel",5.09,502,34
+"Castricum",6.15,383,22
+"Coevorden",3.66,109,13
+"Cranendonck",5.38,1706,11
+"Cuijk",9.23,1684,23
+"Culemborg",4.55,216,13
+"Dalfsen",6.67,148,19
+"Dantumadiel",4.76,1891,9
+"De Bilt",7.24,310,31
+"De Fryske Marren",4.08,1940,21
+"De Ronde Venen",2.5,736,11
+"De Wolden",4.15,1690,10
+"Delft",4.56,503,47
+"Delfzijl",5.66,10,14
+"Den Helder",2.52,400,14
+"Deurne",4.02,762,13
+"Deventer",4.7,150,47
+"Diemen",4.11,384,12
+"Dinkelland",1.14,1774,3
+"Doesburg",8.97,221,10
+"Doetinchem",4.34,222,25
+"Dongen",2.69,766,7
+"Dordrecht",3.71,505,44
+"Drechterland",2.04,498,4
+"Drimmelen",5.16,1719,14
+"Dronten",5.39,303,22
+"Druten",1.6,225,3
+"Duiven",3.55,226,9
+"Echt-Susteren",2.53,1711,8
+"Edam-Volendam",1.39,385,5
+"Ede",3.89,228,45
+"Eemnes",9.88,317,9
+"Eersel",4.19,770,8
+"Eijsden-Margraten",2.73,1903,7
+"Eindhoven",6.22,772,144
+"Elburg",2.6,230,6
+"Emmen",4.01,114,43
+"Enkhuizen",5.94,388,11
+"Enschede",5.28,153,84
+"Epe",2.41,232,8
+"Ermelo",1.86,233,5
+"Etten-Leur",6.17,777,27
+"Geertruidenberg",6.97,779,15
+"Geldrop-Mierlo",6.06,1771,24
+"Gemert-Bakel",6.24,1652,19
+"Gennep",1.76,907,3
+"Gilze en Rijen",6.81,784,18
+"Goeree-Overflakkee",4.84,1924,24
+"Goes",3.72,664,14
+"Goirle",3.78,785,9
+"Gooise Meren",6.41,1942,37
+"Gorinchem",4.09,512,15
+"Gouda",5.06,513,37
+"Grave",5.61,786,7
+"Groningen",5.92,14,137
+"Gulpen-Wittem",0.7,1729,1
+"Haaksbergen",4.12,158,10
+"Haaren",7.75,788,11
+"Haarlem",5.27,392,85
+"Haarlemmermeer",5.06,394,78
+"Halderberge",5.63,1655,17
+"Hardenberg",2.64,160,16
+"Harderwijk",2.94,243,14
+"Hardinxveld-Giessendam",2.22,523,4
+"Harlingen",1.9,72,3
+"Hattem",3.29,244,4
+"Heemskerk",4.6,396,18
+"Heemstede",4.03,397,11
+"Heerde",2.16,246,4
+"Heerenveen",3.98,74,20
+"Heerhugowaard",4.23,398,24
+"Heerlen",2.53,917,22
+"Heeze-Leende",5.01,1658,8
+"Heiloo",4.69,399,11
+"Hellendoorn",3.91,163,14
+"Hellevoetsluis",4.25,530,17
+"Helmond",2.84,794,26
+"Hendrik-Ido-Ambacht",5.17,531,16
+"Hengelo",5.58,164,45
+"Het Hogeland",3.34,1966,16
+"Heumen",6.67,252,11
+"Heusden",4.53,797,20
+"Hillegom",3.64,534,8
+"Hilvarenbeek",3.92,798,6
+"Hilversum",4.77,402,43
+"Hoeksche Waard",4.62,1963,40
+"Hof van Twente",2.86,1735,10
+"Hollands Kroon",4.18,1911,20
+"Hoogeveen",4.49,118,25
+"Hoorn",2.47,405,18
+"Horst aan de Maas",4.26,1507,18
+"Houten",5.21,321,26
+"Huizen",3.88,406,16
+"Hulst",3.63,677,10
+"IJsselstein",6.44,353,22
+"Kaag en Braassem",3.35,1884,9
+"Kampen",3.9,166,21
+"Kapelle",7.04,678,9
+"Katwijk",3.06,537,20
+"Kerkrade",3.51,928,16
+"Koggenland",3.52,1598,8
+"Krimpen aan den IJssel",4.09,542,12
+"Krimpenerwaard",2.5,1931,14
+"Laarbeek",4.48,1659,10
+"Landerd",9.02,1685,14
+"Landgraaf",3.46,882,13
+"Landsmeer",3.48,415,4
+"Langedijk",3.22,416,9
+"Lansingerland",5.84,1621,36
+"Laren",6.25,417,7
+"Leeuwarden",3.41,80,42
+"Leiden",7.29,546,91
+"Leiderdorp",3.32,547,9
+"Leidschendam-Voorburg",5.04,1916,38
+"Lelystad",6.29,995,49
+"Leudal",3.92,1640,14
+"Leusden",6.66,327,20
+"Lingewaard",4.95,1705,23
+"Lisse",3.95,553,9
+"Lochem",1.49,262,5
+"Loon op Zand",4.71,809,11
+"Lopik",2.76,331,4
+"Loppersum",3.12,24,3
+"Losser",1.77,168,4
+"Maasdriel",4.46,263,11
+"Maasgouw",2.96,1641,7
+"Maassluis",4.27,556,14
+"Maastricht",4.28,935,52
+"Medemblik",4.02,420,18
+"Meerssen",2.64,938,5
+"Meierijstad",5.2,1948,42
+"Meppel",5.36,119,18
+"Middelburg",3.91,687,19
+"Midden-Delfland",4.13,1842,8
+"Midden-Drenthe",3.92,1731,13
+"Midden-Groningen",2.13,1952,13
+"Mill en Sint Hubert",2.75,815,3
+"Moerdijk",4.87,1709,18
+"Molenlanden",2.96,1978,13
+"Montferland",1.67,1955,6
+"Montfoort",0.71,335,1
+"Mook en Middelaar",2.56,944,2
+"Neder-Betuwe",2.91,1740,7
+"Nederweert",4.12,946,7
+"Nieuwegein",3.97,356,25
+"Nieuwkoop",2.45,569,7
+"Nijkerk",2.56,267,11
+"Nijmegen",6.39,268,113
+"Nissewaard",10.14,1930,86
+"Noardeast-Fryslân",2.21,1970,10
+"Noord-Beveland",4.11,1695,3
+"Noordenveld",6.08,1699,19
+"Noordoostpolder",2.99,171,14
+"Noordwijk",2.8,575,12
+"Nuenen, Gerwen en Nederwetten",4.31,820,10
+"Nunspeet",1.46,302,4
+"Oegstgeest",4.91,579,12
+"Oirschot",3.22,823,6
+"Oisterwijk",4.97,824,13
+"Oldambt",5.51,1895,21
+"Oldebroek",0.85,269,2
+"Oldenzaal",5.65,173,18
+"Olst-Wijhe",1.66,1773,3
+"Ommen",2.25,175,4
+"Oost Gelre",3.03,1586,9
+"Oosterhout",4.31,826,24
+"Ooststellingwerf",2.74,85,7
+"Oostzaan",6.15,431,6
+"Opmeer",3.4,432,4
+"Opsterland",3.36,86,10
+"Oss",6.45,828,59
+"Oude IJsselstreek",2.03,1509,8
+"Ouder-Amstel",4.31,437,6
 "Oudewater",0.98,589,1
-"Overbetuwe",0,1734,0
-"Papendrecht",0.93,590,3
-"Peel en Maas",0.69,1894,3
-"Pekela",0,765,0
-"Pijnacker-Nootdorp",1.47,1926,8
-"Purmerend",1.12,439,9
-"Putten",1.65,273,4
-"Raalte",1.07,177,4
-"Reimerswaal",0.88,703,2
-"Renkum",0.32,274,1
-"Renswoude",1.9,339,1
-"Reusel-De Mierden",2.3,1667,3
-"Rheden",0.23,275,1
-"Rhenen",0,340,0
-"Ridderkerk",0.43,597,2
-"Rijssen-Holten",1.04,1742,4
-"Rijswijk",2.62,603,14
-"Roerdalen",0,1669,0
-"Roermond",0.52,957,3
-"Roosendaal",0.65,1674,5
-"Rotterdam",1.16,599,75
-"Rozendaal",0,277,0
-"Rucphen",0.44,840,1
-"Schagen",0.86,441,4
-"Scherpenzeel",1.01,279,1
-"Schiedam",0.51,606,4
+"Overbetuwe",3.58,1734,17
+"Papendrecht",4.34,590,14
+"Peel en Maas",1.39,1894,6
+"Pekela",6.55,765,8
+"Pijnacker-Nootdorp",5.34,1926,29
+"Purmerend",3.99,439,32
+"Putten",5.37,273,13
+"Raalte",5.06,177,19
+"Reimerswaal",1.76,703,4
+"Renkum",2.88,274,9
+"Renswoude",3.8,339,2
+"Reusel-De Mierden",3.83,1667,5
+"Rheden",2.98,275,13
+"Rhenen",1.5,340,3
+"Ridderkerk",3.24,597,15
+"Rijssen-Holten",2.87,1742,11
+"Rijswijk",7.11,603,38
+"Roerdalen",3.4,1669,7
+"Roermond",3.78,957,22
+"Roosendaal",3.12,1674,24
+"Rotterdam",3.54,599,228
+"Rozendaal",6.08,277,1
+"Rucphen",3.1,840,7
+"Schagen",2.36,441,11
+"Scherpenzeel",3.04,279,3
+"Schiedam",4.49,606,35
 "Schiermonnikoog",0,88,0
-"Schouwen-Duiveland",0.59,1676,2
+"Schouwen-Duiveland",2.96,1676,10
 "Simpelveld",0,965,0
-"Sint-Michielsgestel",1.03,845,3
-"Sint Anthonis",0.86,1702,1
-"Sittard-Geleen",0.43,1883,4
-"Sliedrecht",0,610,0
-"Sluis",1.28,1714,3
-"Smallingerland",1.97,90,11
-"Soest",0.65,342,3
-"Someren",0.52,847,1
-"Son en Breugel",1.18,848,2
-"Stadskanaal",0.94,37,3
-"Staphorst",2.37,180,4
-"Stede Broec",1.38,532,3
-"Steenbergen",0,851,0
-"Steenwijkerland",0,1708,0
-"Stein",0.8,971,2
-"Stichtse Vecht",1.09,1904,7
-"Súdwest-Fryslân",0.78,1900,7
-"Terneuzen",0,715,0
-"Terschelling",2.05,93,1
-"Texel",0.74,448,1
-"Teylingen",1.35,1525,5
-"Tholen",1.16,716,3
-"Tiel",1.43,281,6
-"Tilburg",1.24,855,27
-"Tubbergen",0,183,0
-"Twenterand",0.3,1700,1
-"Tynaarlo",0.59,1730,2
-"Tytsjerksteradiel",1.26,737,4
-"Uden",1.2,856,5
-"Uitgeest",2.22,450,3
-"Uithoorn",4.76,451,14
-"Urk",0.48,184,1
-"Utrecht",2.21,344,78
-"Utrechtse Heuvelrug",1.21,1581,6
-"Vaals",0,981,0
-"Valkenburg aan de Geul",1.21,994,2
-"Valkenswaard",0.97,858,3
-"Veendam",0.73,47,2
-"Veenendaal",1.52,345,10
-"Veere",0,717,0
-"Veldhoven",2.65,861,12
-"Velsen",2.05,453,14
-"Venlo",0.59,983,6
-"Venray",0.23,984,1
-"Vijfheerenlanden",0.54,1961,3
-"Vlaardingen",1.1,622,8
+"Sint-Michielsgestel",6.55,845,19
+"Sint Anthonis",7.76,1702,9
+"Sittard-Geleen",2.91,1883,27
+"Sliedrecht",6,610,15
+"Sluis",2.57,1714,6
+"Smallingerland",4.47,90,25
+"Soest",3.46,342,16
+"Someren",2.59,847,5
+"Son en Breugel",5.92,848,10
+"Stadskanaal",1.89,37,6
+"Staphorst",3.55,180,6
+"Stede Broec",3.23,532,7
+"Steenbergen",3.2,851,8
+"Steenwijkerland",1.82,1708,8
+"Stein",4.41,971,11
+"Stichtse Vecht",3.26,1904,21
+"Súdwest-Fryslân",1.89,1900,17
+"Terneuzen",0.73,715,4
+"Terschelling",4.09,93,2
+"Texel",4.43,448,6
+"Teylingen",5.13,1525,19
+"Tholen",1.55,716,4
+"Tiel",5,281,21
+"Tilburg",5.34,855,116
+"Tubbergen",0.94,183,2
+"Twenterand",1.48,1700,5
+"Tynaarlo",4.16,1730,14
+"Tytsjerksteradiel",2.52,737,8
+"Uden",4.79,856,20
+"Uitgeest",6.65,450,9
+"Uithoorn",9.52,451,28
+"Urk",3.85,184,8
+"Utrecht",8,344,282
+"Utrechtse Heuvelrug",5.25,1581,26
+"Vaals",1.98,981,2
+"Valkenburg aan de Geul",2.43,994,4
+"Valkenswaard",2.91,858,9
+"Veendam",3.27,47,9
+"Veenendaal",5.95,345,39
+"Veere",2.75,717,6
+"Veldhoven",8.6,861,39
+"Velsen",4.25,453,29
+"Venlo",2.66,983,27
+"Venray",2.31,984,10
+"Vijfheerenlanden",2.87,1961,16
+"Vlaardingen",5.25,622,38
 "Vlieland",0,96,0
-"Vlissingen",0.68,718,3
-"Voerendaal",0,986,0
-"Voorschoten",1.96,626,5
-"Voorst",0.41,285,1
-"Vught",1.52,865,4
-"Waadhoeke",0.87,1949,4
-"Waalre",0.58,866,1
-"Waalwijk",1.66,867,8
-"Waddinxveen",1.41,627,4
-"Wageningen",2.84,289,11
-"Wassenaar",0.76,629,2
-"Waterland",1.16,852,2
-"Weert",0.6,988,3
-"Weesp",2.59,457,5
-"West Betuwe",1.38,1960,7
-"West Maas en Waal",0,668,0
-"Westerkwartier",1.27,1969,8
-"Westerveld",0.52,1701,1
-"Westervoort",2.68,293,4
-"Westerwolde",1.19,1950,3
-"Westland",0.18,1783,2
-"Weststellingwerf",2.71,98,7
-"Westvoorne",0,614,0
-"Wierden",2.05,189,5
-"Wijchen",0.98,296,4
-"Wijdemeren",2.92,1696,7
-"Wijk bij Duurstede",1.68,352,4
-"Winterswijk",0.35,294,1
-"Woensdrecht",0.91,873,2
-"Woerden",1.34,632,7
-"Wormerland",1.23,880,2
-"Woudenberg",0,351,0
-"Zaanstad",1.48,479,23
-"Zaltbommel",1.76,297,5
-"Zandvoort",1.18,473,2
-"Zeewolde",1.79,50,4
-"Zeist",2.19,355,14
-"Zevenaar",2.07,299,9
-"Zoetermeer",1.12,637,14
-"Zoeterwoude",3.55,638,3
-"Zuidplas",6.08,1892,26
-"Zundert",0,879,0
-"Zutphen",1.26,301,6
-"Zwartewaterland",1.78,1896,4
-"Zwijndrecht",0.67,642,3
-"Zwolle",1.33,193,17
+"Vlissingen",2.7,718,12
+"Voerendaal",4.02,986,5
+"Voorschoten",2.75,626,7
+"Voorst",3.28,285,8
+"Vught",10.61,865,28
+"Waadhoeke",1.74,1949,8
+"Waalre",4.06,866,7
+"Waalwijk",4.35,867,21
+"Waddinxveen",4.59,627,13
+"Wageningen",6.71,289,26
+"Wassenaar",4.2,629,11
+"Waterland",4.62,852,8
+"Weert",3.81,988,19
+"Weesp",5.17,457,10
+"West Betuwe",3.75,1960,19
+"West Maas en Waal",5.77,668,11
+"Westerkwartier",6.35,1969,40
+"Westerveld",3.11,1701,6
+"Westervoort",3.35,293,5
+"Westerwolde",2.38,1950,6
+"Westland",3.22,1783,35
+"Weststellingwerf",5.8,98,15
+"Westvoorne",1.37,614,2
+"Wierden",5.34,189,13
+"Wijchen",5.13,296,21
+"Wijdemeren",7.08,1696,17
+"Wijk bij Duurstede",4.21,352,10
+"Winterswijk",1.73,294,5
+"Woensdrecht",2.29,873,5
+"Woerden",2.87,632,15
+"Wormerland",4.29,880,7
+"Woudenberg",3.04,351,4
+"Zaanstad",5.26,479,82
+"Zaltbommel",4.92,297,14
+"Zandvoort",3.53,473,6
+"Zeewolde",3.59,50,8
+"Zeist",7.35,355,47
+"Zevenaar",5.52,299,24
+"Zoetermeer",4.96,637,62
+"Zoeterwoude",5.92,638,5
+"Zuidplas",9.12,1892,39
+"Zundert",1.39,879,3
+"Zutphen",5.25,301,25
+"Zwartewaterland",3.55,1896,8
+"Zwijndrecht",2.02,642,9
+"Zwolle",6.9,193,88
