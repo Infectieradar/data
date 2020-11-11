@@ -1,355 +1,356 @@
 "","Gemeente","Leden_per_10000_inwoners","gem_code","Aantal"
-"1","'s-Gravenhage",7.98,518,414
-"2","'s-Hertogenbosch",13.36,796,204
-"3","Aa en Hunze",16.13,1680,33
+"1","'s-Gravenhage",7.7,518,414
+"2","'s-Hertogenbosch",13.23,796,204
+"3","Aa en Hunze",13,1680,33
 "4","Aalsmeer",5.99,358,19
-"5","Aalten",4.9,197,12
-"6","Achtkarspelen",8.21,59,18
-"7","Alblasserdam",7.86,482,15
+"5","Aalten",4.44,197,12
+"6","Achtkarspelen",6.46,59,18
+"7","Alblasserdam",7.48,482,15
 "8","Albrandswaard",12.27,613,31
-"9","Alkmaar",12.09,361,125
-"10","Almelo",8.93,141,65
-"11","Almere",8.51,34,162
-"12","Alphen-Chaam",12.62,1723,11
-"13","Alphen aan den Rijn",8.81,484,96
-"14","Altena",9.99,1959,48
-"15","Ameland",22.47,60,1
-"16","Amersfoort",13.3,307,207
-"17","Amstelveen",8.92,362,80
-"18","Amsterdam",6.52,363,561
-"19","Apeldoorn",8.1,200,127
+"9","Alkmaar",11.52,361,125
+"10","Almelo",8.92,141,65
+"11","Almere",7.79,34,162
+"12","Alphen-Chaam",10.85,1723,11
+"13","Alphen aan den Rijn",8.65,484,96
+"14","Altena",8.67,1959,48
+"15","Ameland",2.72,60,1
+"16","Amersfoort",13.25,307,207
+"17","Amstelveen",8.81,362,80
+"18","Amsterdam",6.5,363,561
+"19","Apeldoorn",7.82,200,127
 "20","Appingedam",4.27,3,5
-"21","Arnhem",9.7,202,154
-"22","Assen",9.94,106,67
-"23","Asten",10.93,743,17
-"24","Baarle-Nassau",3.53,744,2
+"21","Arnhem",9.67,202,154
+"22","Assen",9.86,106,67
+"23","Asten",10.18,743,17
+"24","Baarle-Nassau",2.92,744,2
 "25","Baarn",11.71,308,29
 "26","Barendrecht",12.53,489,61
-"27","Barneveld",13.4,203,75
+"27","Barneveld",12.94,203,75
 "28","Beek",10.04,888,16
-"29","Beekdaelen",10.24,1954,36
-"30","Beemster",12.03,370,11
+"29","Beekdaelen",10.08,1954,36
+"30","Beemster",11.29,370,11
 "31","Beesel",6.66,889,9
-"32","Berg en Dal",7.42,1945,20
+"32","Berg en Dal",5.75,1945,20
 "33","Bergeijk",5.95,1724,11
-"34","Bergen (L.)",5.02,893,5
-"35","Bergen (NH.)",7.11,373,20
-"36","Bergen op Zoom",10.59,748,70
-"37","Berkelland",5.67,1859,23
-"38","Bernheze",11.37,1721,33
+"34","Bergen (L.)",3.8,893,5
+"35","Bergen (NH.)",6.67,373,20
+"36","Bergen op Zoom",10.48,748,70
+"37","Berkelland",5.24,1859,23
+"38","Bernheze",10.73,1721,33
 "39","Best",11.74,753,35
-"40","Beuningen",7.69,209,18
+"40","Beuningen",6.96,209,18
 "41","Beverwijk",8.74,375,36
-"42","Bladel",8.33,1728,15
-"43","Blaricum",6.6,376,7
+"42","Bladel",7.43,1728,15
+"43","Blaricum",6.25,376,7
 "44","Bloemendaal",5.98,377,14
 "45","Bodegraven-Reeuwijk",5.8,1901,20
-"46","Boekel",11.29,755,10
-"47","Borger-Odoorn",7.86,1681,12
-"48","Borne",5.73,147,13
-"49","Borsele",8.49,654,15
-"50","Boxmeer",13.03,756,35
+"46","Boekel",9.45,755,10
+"47","Borger-Odoorn",4.73,1681,12
+"48","Borne",5.6,147,13
+"49","Borsele",6.58,654,15
+"50","Boxmeer",12.04,756,35
 "51","Boxtel",10.41,757,32
-"52","Breda",11.49,758,209
+"52","Breda",11.37,758,209
 "53","Brielle",14.55,501,25
-"54","Bronckhorst",8.4,1876,29
-"55","Brummen",9.05,213,18
-"56","Brunssum",9.17,899,19
+"54","Bronckhorst",8.01,1876,29
+"55","Brummen",8.7,213,18
+"56","Brunssum",6.76,899,19
 "57","Bunnik",11.19,312,17
-"58","Bunschoten",4.34,313,9
-"59","Buren",9.86,214,21
+"58","Bunschoten",4.17,313,9
+"59","Buren",7.93,214,21
 "60","Capelle aan den IJssel",7.63,502,51
-"61","Castricum",12.64,383,45
-"62","Coevorden",7.8,109,22
+"61","Castricum",12.58,383,45
+"62","Coevorden",6.2,109,22
 "63","Cranendonck",19.08,1706,39
-"64","Cuijk",10.88,1684,24
-"65","Culemborg",10.89,216,31
-"66","Dalfsen",7.51,148,18
-"67","Dantumadiel",8.37,1891,12
+"64","Cuijk",9.63,1684,24
+"65","Culemborg",10.86,216,31
+"66","Dalfsen",6.32,148,18
+"67","Dantumadiel",6.34,1891,12
 "68","De Bilt",16.58,310,71
-"69","De Fryske Marren",8.23,1940,30
+"69","De Fryske Marren",5.83,1940,30
 "70","De Ronde Venen",8.85,736,39
-"71","De Wolden",6.76,1690,15
-"72","Delft",10.71,503,110
-"73","Delfzijl",6.65,10,14
-"74","Den Helder",6.74,400,37
-"75","Deurne",6.86,762,19
-"76","Deventer",9.67,150,95
+"71","De Wolden",6.22,1690,15
+"72","Delft",10.66,503,110
+"73","Delfzijl",5.66,10,14
+"74","Den Helder",6.65,400,37
+"75","Deurne",5.87,762,19
+"76","Deventer",9.5,150,95
 "77","Diemen",10.96,384,32
-"78","Dinkelland",6.26,1774,11
-"79","Doesburg",7.3,221,8
-"80","Doetinchem",6.6,222,37
-"81","Dongen",9.76,766,25
-"82","Dordrecht",7.72,505,91
-"83","Drechterland",10.5,498,18
-"84","Drimmelen",9.95,1719,27
+"78","Dinkelland",4.18,1774,11
+"79","Doesburg",7.17,221,8
+"80","Doetinchem",6.43,222,37
+"81","Dongen",9.6,766,25
+"82","Dordrecht",7.67,505,91
+"83","Drechterland",9.18,498,18
+"84","Drimmelen",9.94,1719,27
 "85","Dronten",7.6,303,31
-"86","Druten",8.9,225,14
-"87","Duiven",8.58,226,20
-"88","Echt-Susteren",6.13,1711,18
-"89","Edam-Volendam",4.16,385,10
-"90","Ede",9.61,228,108
+"86","Druten",7.45,225,14
+"87","Duiven",7.89,226,20
+"88","Echt-Susteren",5.69,1711,18
+"89","Edam-Volendam",2.77,385,10
+"90","Ede",9.33,228,108
 "91","Eemnes",7.68,317,7
-"92","Eersel",10.01,770,17
-"93","Eijsden-Margraten",11.32,1903,20
-"94","Eindhoven",11.03,772,255
+"92","Eersel",8.9,770,17
+"93","Eijsden-Margraten",7.8,1903,20
+"94","Eindhoven",11.01,772,255
 "95","Elburg",8.66,230,20
-"96","Emmen",5.86,114,57
+"96","Emmen",5.32,114,57
 "97","Enkhuizen",10.81,388,20
-"98","Enschede",8.73,153,135
-"99","Epe",9.7,232,29
+"98","Enschede",8.49,153,135
+"99","Epe",8.75,232,29
 "100","Ermelo",8.19,233,22
-"101","Etten-Leur",8.95,777,39
+"101","Etten-Leur",8.91,777,39
 "102","Geertruidenberg",13.95,779,30
 "103","Geldrop-Mierlo",11.11,1771,44
-"104","Gemert-Bakel",8.65,1652,23
-"105","Gennep",3.49,907,4
-"106","Gilze en Rijen",10.52,784,26
-"107","Goeree-Overflakkee",7.39,1924,32
-"108","Goes",11.57,664,42
+"104","Gemert-Bakel",7.55,1652,23
+"105","Gennep",2.34,907,4
+"106","Gilze en Rijen",9.84,784,26
+"107","Goeree-Overflakkee",6.45,1924,32
+"108","Goes",11.16,664,42
 "109","Goirle",13.87,785,33
 "110","Gooise Meren",8.66,1942,50
-"111","Gorinchem",7.74,512,26
-"112","Gouda",11.19,513,80
-"113","Grave",19.45,786,17
-"114","Groningen",12.71,14,289
-"115","Gulpen-Wittem",10.65,1729,14
+"111","Gorinchem",7.09,512,26
+"112","Gouda",10.93,513,80
+"113","Grave",13.62,786,17
+"114","Groningen",12.49,14,289
+"115","Gulpen-Wittem",9.83,1729,14
 "116","Haaksbergen",3.71,158,9
-"117","Haaren",9.97,788,12
-"118","Haarlem",9.4,392,151
-"119","Haarlemmermeer",9.82,394,146
+"117","Haaren",8.46,788,12
+"118","Haarlem",9.36,392,151
+"119","Haarlemmermeer",9.47,394,146
 "120","Halderberge",9.6,1655,29
-"121","Hardenberg",8.79,160,46
-"122","Harderwijk",8.57,243,40
-"123","Hardinxveld-Giessendam",5.31,523,9
-"124","Harlingen",6.55,72,10
+"121","Hardenberg",7.59,160,46
+"122","Harderwijk",8.41,243,40
+"123","Hardinxveld-Giessendam",4.98,523,9
+"124","Harlingen",6.34,72,10
 "125","Hattem",8.21,244,10
-"126","Heemskerk",13.28,396,50
-"127","Heemstede",8.28,397,20
-"128","Heerde",10.63,246,19
-"129","Heerenveen",9.14,74,39
+"126","Heemskerk",12.77,396,50
+"127","Heemstede",7.33,397,20
+"128","Heerde",10.25,246,19
+"129","Heerenveen",7.76,74,39
 "130","Heerhugowaard",7.58,398,43
 "131","Heerlen",7.72,917,67
 "132","Heeze-Leende",12.53,1658,20
-"133","Heiloo",11.75,399,27
-"134","Hellendoorn",8.32,163,28
-"135","Hellevoetsluis",7.22,530,23
+"133","Heiloo",11.51,399,27
+"134","Hellendoorn",7.82,163,28
+"135","Hellevoetsluis",5.74,530,23
 "136","Helmond",8.3,794,76
 "137","Hendrik-Ido-Ambacht",7.1,531,22
-"138","Hengelo",10.52,164,79
-"139","Het Hogeland",12.33,1966,42
+"138","Hengelo",9.79,164,79
+"139","Het Hogeland",8.77,1966,42
 "140","Heumen",10.92,252,18
-"141","Heusden",12.38,797,54
+"141","Heusden",12.23,797,54
 "142","Hillegom",4.55,534,10
-"143","Hilvarenbeek",9.81,798,13
+"143","Hilvarenbeek",8.49,798,13
 "144","Hilversum",11.53,402,104
-"145","Hoeksche Waard",10.79,1963,93
-"146","Hof van Twente",7.44,1735,24
-"147","Hollands Kroon",9.21,1911,38
-"148","Hoogeveen",12.11,118,62
+"145","Hoeksche Waard",10.73,1963,93
+"146","Hof van Twente",6.87,1735,24
+"147","Hollands Kroon",7.95,1911,38
+"148","Hoogeveen",11.14,118,62
 "149","Hoorn",7.81,405,57
-"150","Horst aan de Maas",6.41,1507,22
-"151","Houten",16.86,321,83
+"150","Horst aan de Maas",5.2,1507,22
+"151","Houten",16.63,321,83
 "152","Huizen",8.48,406,35
-"153","Hulst",8.84,677,18
+"153","Hulst",6.54,677,18
 "154","IJsselstein",10.25,353,35
-"155","Kaag en Braassem",7.89,1884,17
-"156","Kampen",9.12,166,47
-"157","Kapelle",7.32,678,9
-"158","Katwijk",6.75,537,44
-"159","Kerkrade",5.47,928,21
-"160","Koggenland",6.39,1598,13
-"161","Krimpen aan den IJssel",8.94,542,20
-"162","Krimpenerwaard",7.08,1931,38
+"155","Kaag en Braassem",6.33,1884,17
+"156","Kampen",8.74,166,47
+"157","Kapelle",7.04,678,9
+"158","Katwijk",6.74,537,44
+"159","Kerkrade",4.6,928,21
+"160","Koggenland",5.72,1598,13
+"161","Krimpen aan den IJssel",6.81,542,20
+"162","Krimpenerwaard",6.78,1931,38
 "163","Laarbeek",10.75,1659,24
 "164","Landerd",9.66,1685,15
 "165","Landgraaf",12.5,882,47
-"166","Landsmeer",7.5,415,8
-"167","Langedijk",7.57,416,21
+"166","Landsmeer",6.97,415,8
+"167","Langedijk",7.5,416,21
 "168","Lansingerland",10.71,1621,66
-"169","Laren",10.16,417,11
-"170","Leeuwarden",8.46,80,95
-"171","Leiden",10.6,546,132
+"169","Laren",9.83,417,11
+"170","Leeuwarden",7.72,80,95
+"171","Leiden",10.57,546,132
 "172","Leiderdorp",11.07,547,30
-"173","Leidschendam-Voorburg",12.8,1916,96
-"174","Lelystad",7.33,995,53
-"175","Leudal",7.51,1640,21
-"176","Leusden",13.15,327,39
-"177","Lingewaard",8.03,1705,35
+"173","Leidschendam-Voorburg",12.73,1916,96
+"174","Lelystad",6.8,995,53
+"175","Leudal",5.89,1640,21
+"176","Leusden",12.98,327,39
+"177","Lingewaard",7.53,1705,35
 "178","Lisse",6.14,553,14
-"179","Lochem",7.62,262,21
+"179","Lochem",6.25,262,21
 "180","Loon op Zand",7.72,809,18
-"181","Lopik",8.52,331,11
-"182","Loppersum",19.78,24,9
-"183","Losser",4.72,168,10
-"184","Maasdriel",8.85,263,18
-"185","Maasgouw",7.83,1641,16
-"186","Maassluis",6.17,556,20
+"181","Lopik",7.6,331,11
+"182","Loppersum",9.37,24,9
+"183","Losser",4.42,168,10
+"184","Maasdriel",7.29,263,18
+"185","Maasgouw",6.76,1641,16
+"186","Maassluis",6.1,556,20
 "187","Maastricht",9.46,935,115
-"188","Medemblik",6.73,420,28
+"188","Medemblik",6.26,420,28
 "189","Meerssen",9.51,938,18
-"190","Meierijstad",10.21,1948,81
-"191","Meppel",9.03,119,30
-"192","Middelburg",8.25,687,40
+"190","Meierijstad",10.02,1948,81
+"191","Meppel",8.94,119,30
+"192","Middelburg",8.24,687,40
 "193","Midden-Delfland",12.38,1842,24
-"194","Midden-Drenthe",8.52,1731,21
-"195","Midden-Groningen",5.95,1952,32
+"194","Midden-Drenthe",6.33,1731,21
+"195","Midden-Groningen",5.25,1952,32
 "196","Mill en Sint Hubert",11.01,815,12
-"197","Moerdijk",8.03,1709,29
-"198","Molenlanden",9.15,1978,36
-"199","Montferland",5.85,1955,18
+"197","Moerdijk",7.85,1709,29
+"198","Molenlanden",8.21,1978,36
+"199","Montferland",5,1955,18
 "200","Montfoort",11.44,335,16
-"201","Mook en Middelaar",6.01,944,4
-"202","Neder-Betuwe",12.61,1740,29
-"203","Nederweert",6.61,946,10
-"204","Nieuwegein",9.95,356,62
-"205","Nieuwkoop",6.9,569,19
+"201","Mook en Middelaar",5.12,944,4
+"202","Neder-Betuwe",12.06,1740,29
+"203","Nederweert",5.88,946,10
+"204","Nieuwegein",9.84,356,62
+"205","Nieuwkoop",6.65,569,19
 "206","Nijkerk",4.19,267,18
 "207","Nijmegen",9.56,268,169
-"208","Nissewaard",10.27,1930,82
-"209","Noardeast-Fryslân",7.63,1970,21
-"210","Noord-Beveland",11.34,1695,6
-"211","Noordenveld",14.87,1699,44
-"212","Noordoostpolder",8.79,171,36
-"213","Noordwijk",10.75,575,46
+"208","Nissewaard",9.67,1930,82
+"209","Noardeast-Fryslân",4.65,1970,21
+"210","Noord-Beveland",8.21,1695,6
+"211","Noordenveld",14.07,1699,44
+"212","Noordoostpolder",7.68,171,36
+"213","Noordwijk",10.73,575,46
 "214","Nuenen, Gerwen en Nederwetten",13.37,820,31
-"215","Nunspeet",10.47,302,28
+"215","Nunspeet",10.19,302,28
 "216","Oegstgeest",10.24,579,25
 "217","Oirschot",18.8,823,35
-"218","Oisterwijk",10.07,824,26
-"219","Oldambt",8.05,1895,29
-"220","Oldebroek",6.04,269,12
-"221","Oldenzaal",8.63,173,27
-"222","Olst-Wijhe",8.63,1773,14
-"223","Ommen",10.65,175,16
-"224","Oost Gelre",8.14,1586,21
-"225","Oosterhout",11.22,826,61
-"226","Ooststellingwerf",5.21,85,10
+"218","Oisterwijk",9.95,824,26
+"219","Oldambt",7.6,1895,29
+"220","Oldebroek",5.08,269,12
+"221","Oldenzaal",8.48,173,27
+"222","Olst-Wijhe",7.75,1773,14
+"223","Ommen",8.98,175,16
+"224","Oost Gelre",7.07,1586,21
+"225","Oosterhout",10.97,826,61
+"226","Ooststellingwerf",3.92,85,10
 "227","Oostzaan",5.13,431,5
-"228","Opmeer",7.66,432,8
-"229","Opsterland",15.49,86,37
-"230","Oss",8.05,828,69
-"231","Oude IJsselstreek",6.72,1509,24
-"232","Ouder-Amstel",7.95,437,11
-"233","Oudewater",6.03,589,5
-"234","Overbetuwe",12.11,1734,55
+"228","Opmeer",6.79,432,8
+"229","Opsterland",12.45,86,37
+"230","Oss",7.55,828,69
+"231","Oude IJsselstreek",6.08,1509,24
+"232","Ouder-Amstel",7.91,437,11
+"233","Oudewater",4.9,589,5
+"234","Overbetuwe",11.57,1734,55
 "235","Papendrecht",11.77,590,38
-"236","Peel en Maas",7.37,1894,31
+"236","Peel en Maas",7.16,1894,31
 "237","Pekela",4.1,765,5
 "238","Pijnacker-Nootdorp",9.75,1926,53
 "239","Purmerend",8.61,439,69
 "240","Putten",8.68,273,21
-"241","Raalte",7.21,177,24
-"242","Reimerswaal",10.87,703,24
-"243","Renkum",8.17,274,25
+"241","Raalte",6.4,177,24
+"242","Reimerswaal",10.58,703,24
+"243","Renkum",7.99,274,25
 "244","Renswoude",9.51,339,5
 "245","Reusel-De Mierden",9.19,1667,12
-"246","Rheden",8.15,275,33
-"247","Rhenen",14.77,340,29
+"246","Rheden",7.56,275,33
+"247","Rhenen",14.5,340,29
 "248","Ridderkerk",8.87,597,41
 "249","Rijssen-Holten",6.79,1742,26
 "250","Rijswijk",9.35,603,50
 "251","Roerdalen",13.1,1669,27
-"252","Roermond",7.65,957,42
-"253","Roosendaal",11.36,1674,87
-"254","Rotterdam",6.26,599,380
+"252","Roermond",7.22,957,42
+"253","Roosendaal",11.29,1674,87
+"254","Rotterdam",5.9,599,380
 "255","Rozendaal",12.16,277,2
-"256","Rucphen",10.74,840,24
-"257","Schagen",10.76,441,37
+"256","Rucphen",10.63,840,24
+"257","Schagen",7.95,441,37
 "258","Scherpenzeel",4.05,279,4
-"259","Schiedam",8.76,606,68
+"259","Schiedam",8.72,606,68
 "260","Schiermonnikoog",10.7,88,1
-"261","Schouwen-Duiveland",10.9,1676,30
-"262","Simpelveld",7.64,965,8
-"263","Sint-Michielsgestel",8.56,845,24
-"264","Sint Anthonis",11.85,1702,9
-"265","Sittard-Geleen",13.14,1883,118
-"266","Sliedrecht",8.08,610,20
-"267","Sluis",5.51,1714,7
-"268","Smallingerland",6.68,90,35
+"261","Schouwen-Duiveland",8.88,1676,30
+"262","Simpelveld",7.61,965,8
+"263","Sint-Michielsgestel",8.28,845,24
+"264","Sint Anthonis",7.76,1702,9
+"265","Sittard-Geleen",12.74,1883,118
+"266","Sliedrecht",7.99,610,20
+"267","Sluis",2.99,1714,7
+"268","Smallingerland",6.26,90,35
 "269","Soest",13.64,342,63
 "270","Someren",8.8,847,17
 "271","Son en Breugel",23.07,848,39
-"272","Stadskanaal",5.4,37,17
-"273","Staphorst",4.77,180,7
+"272","Stadskanaal",5.35,37,17
+"273","Staphorst",4.14,180,7
 "274","Stede Broec",6.45,532,14
-"275","Steenbergen",6.71,851,15
-"276","Steenwijkerland",11.31,1708,39
+"275","Steenbergen",6,851,15
+"276","Steenwijkerland",8.88,1708,39
 "277","Stein",11.62,971,29
-"278","Stichtse Vecht",11.74,1904,74
-"279","Súdwest-Fryslân",9.12,1900,59
-"280","Terneuzen",7.21,715,32
-"281","Terschelling",19.8,93,3
-"282","Texel",11.42,448,12
-"283","Teylingen",10.03,1525,37
+"278","Stichtse Vecht",11.5,1904,74
+"279","Súdwest-Fryslân",6.58,1900,59
+"280","Terneuzen",5.86,715,32
+"281","Terschelling",6.14,93,3
+"282","Texel",8.86,448,12
+"283","Teylingen",9.98,1525,37
 "284","Tholen",11.25,716,29
-"285","Tiel",7.18,281,30
-"286","Tilburg",9.57,855,207
-"287","Tubbergen",8.72,183,12
-"288","Twenterand",4.56,1700,13
-"289","Tynaarlo",11.19,1730,33
-"290","Tytsjerksteradiel",7.48,737,20
+"285","Tiel",7.15,281,30
+"286","Tilburg",9.53,855,207
+"287","Tubbergen",5.64,183,12
+"288","Twenterand",3.85,1700,13
+"289","Tynaarlo",9.8,1730,33
+"290","Tytsjerksteradiel",6.29,737,20
 "291","Uden",9.33,856,39
 "292","Uitgeest",5.91,450,8
-"293","Uithoorn",7.21,451,18
-"294","Urk",6.51,184,9
-"295","Utrecht",13.37,344,470
+"293","Uithoorn",6.12,451,18
+"294","Urk",4.33,184,9
+"295","Utrecht",13.33,344,470
 "296","Utrechtse Heuvelrug",10.7,1581,53
-"297","Vaals",7.58,981,7
-"298","Valkenburg aan de Geul",10.08,994,15
-"299","Valkenswaard",10.77,858,32
-"300","Veendam",7.03,47,19
+"297","Vaals",6.94,981,7
+"298","Valkenburg aan de Geul",9.11,994,15
+"299","Valkenswaard",10.35,858,32
+"300","Veendam",6.91,47,19
 "301","Veenendaal",10.37,345,68
-"302","Veere",9.2,717,16
+"302","Veere",7.33,717,16
 "303","Veldhoven",13.23,861,60
 "304","Velsen",9.81,453,67
-"305","Venlo",8.65,983,85
-"306","Venray",10.95,984,42
-"307","Vijfheerenlanden",8.9,1961,43
-"308","Vlaardingen",7.14,622,51
-"309","Vlissingen",9.92,718,44
-"310","Voerendaal",13.91,986,16
-"311","Voorschoten",9.42,626,24
-"312","Voorst",12.51,285,24
-"313","Vught",11.8,865,31
-"314","Waadhoeke",13.35,1949,42
-"315","Waalre",16.23,866,28
-"316","Waalwijk",6.85,867,33
-"317","Waddinxveen",13.77,627,39
-"318","Wageningen",19.19,289,73
-"319","Wassenaar",8.14,629,19
-"320","Waterland",7.5,852,9
-"321","Weert",7.82,988,39
-"322","Weesp",9.31,457,18
-"323","West Betuwe",14.1,1960,63
-"324","West Maas en Waal",11.06,668,19
-"325","Westerkwartier",11.89,1969,57
-"326","Westerveld",9.82,1701,15
-"327","Westervoort",9.37,293,14
-"328","Westerwolde",6.17,1950,12
-"329","Westland",9.54,1783,103
-"330","Weststellingwerf",7.7,98,16
-"331","Westvoorne",4.26,614,6
-"332","Wierden",7.63,189,18
-"333","Wijchen",10.59,296,42
-"334","Wijdemeren",10.22,1696,23
-"335","Wijk bij Duurstede",15.15,352,36
-"336","Winterswijk",5.56,294,14
-"337","Woensdrecht",6.86,873,15
-"338","Woerden",13.09,632,67
-"339","Wormerland",10.23,880,16
-"340","Woudenberg",11.39,351,15
-"341","Zaanstad",7.63,479,119
-"342","Zaltbommel",11.34,297,27
-"343","Zandvoort",8.23,473,14
-"344","Zeewolde",18.32,50,38
-"345","Zeist",11.89,355,76
-"346","Zevenaar",8.24,299,32
-"347","Zoetermeer",12.01,637,150
-"348","Zoeterwoude",9.55,638,8
-"349","Zuidplas",14.57,1892,61
-"350","Zundert",9.25,879,20
-"351","Zutphen",8.4,301,40
-"352","Zwartewaterland",10.75,1896,24
-"353","Zwijndrecht",9.18,642,41
-"354","Zwolle",12.06,193,153
+"305","Venlo",8.37,983,85
+"306","Venray",9.69,984,42
+"307","Vijfheerenlanden",7.72,1961,43
+"308","Vlaardingen",7.04,622,51
+"309","Vlieland",0,96,0
+"310","Vlissingen",9.92,718,44
+"311","Voerendaal",12.85,986,16
+"312","Voorschoten",9.42,626,24
+"313","Voorst",9.83,285,24
+"314","Vught",11.75,865,31
+"315","Waadhoeke",9.12,1949,42
+"316","Waalre",16.23,866,28
+"317","Waalwijk",6.84,867,33
+"318","Waddinxveen",13.77,627,39
+"319","Wageningen",18.83,289,73
+"320","Wassenaar",7.25,629,19
+"321","Waterland",5.2,852,9
+"322","Weert",7.82,988,39
+"323","Weesp",9.31,457,18
+"324","West Betuwe",12.43,1960,63
+"325","West Maas en Waal",9.96,668,19
+"326","Westerkwartier",9.04,1969,57
+"327","Westerveld",7.78,1701,15
+"328","Westervoort",9.37,293,14
+"329","Westerwolde",4.76,1950,12
+"330","Westland",9.48,1783,103
+"331","Weststellingwerf",6.19,98,16
+"332","Westvoorne",4.1,614,6
+"333","Wierden",7.39,189,18
+"334","Wijchen",10.26,296,42
+"335","Wijdemeren",9.58,1696,23
+"336","Wijk bij Duurstede",15.15,352,36
+"337","Winterswijk",4.84,294,14
+"338","Woensdrecht",6.86,873,15
+"339","Woerden",12.84,632,67
+"340","Wormerland",9.8,880,16
+"341","Woudenberg",11.39,351,15
+"342","Zaanstad",7.63,479,119
+"343","Zaltbommel",9.49,297,27
+"344","Zandvoort",8.23,473,14
+"345","Zeewolde",17.04,50,38
+"346","Zeist",11.89,355,76
+"347","Zevenaar",7.36,299,32
+"348","Zoetermeer",12.01,637,150
+"349","Zoeterwoude",9.47,638,8
+"350","Zuidplas",14.27,1892,61
+"351","Zundert",9.25,879,20
+"352","Zutphen",8.4,301,40
+"353","Zwartewaterland",10.66,1896,24
+"354","Zwijndrecht",9.18,642,41
+"355","Zwolle",12,193,153
