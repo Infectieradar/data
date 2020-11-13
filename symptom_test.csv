@@ -1,0 +1,64 @@
+symptom,percentage,agegroup
+Bloedneus,0.1,15-34
+Diarree,0.1,15-34
+Geen reuk,0.1,15-34
+Geen smaak,0.1,15-34
+Gevoel van vermoeidheid of uitgeput,0.8,15-34
+Hoesten,1,15-34
+Hoofdpijn,1.5,15-34
+Koorts,0.1,15-34
+Kortademigheid,0.5,15-34
+Koude rillingen,0.3,15-34
+Loopneus of verstopte neus,2.2,15-34
+Misselijkheid,0.4,15-34
+Niezen,1.5,15-34
+Overgeven,0.1,15-34
+Pijn in de buik,0.5,15-34
+Pijn op de borst,0.2,15-34
+Spier of gewrichtspijn,0.4,15-34
+Verkleurd slijm,0.1,15-34
+Verminderde eetlust,0.2,15-34
+Waterige of bloeddoorlopen ogen,0.1,15-34
+Zere keel,1.1,15-34
+Bloedneus,0.1,35-54
+Diarree,0.3,35-54
+Geen reuk,0.5,35-54
+Geen smaak,0.4,35-54
+Gevoel van vermoeidheid of uitgeput,2.4,35-54
+Hoesten,3.1,35-54
+Hoofdpijn,5.1,35-54
+Koorts,0.5,35-54
+Kortademigheid,1.6,35-54
+Koude rillingen,1.1,35-54
+Loopneus of verstopte neus,5.3,35-54
+Misselijkheid,0.7,35-54
+Niezen,4,35-54
+Overgeven,0.2,35-54
+Pijn in de buik,0.9,35-54
+Pijn op de borst,0.7,35-54
+Spier of gewrichtspijn,1.8,35-54
+Verkleurd slijm,0.3,35-54
+Verminderde eetlust,0.4,35-54
+Waterige of bloeddoorlopen ogen,0.4,35-54
+Zere keel,3.1,35-54
+Bloedneus,0.1,55+
+Diarree,0.4,55+
+Geen reuk,0.3,55+
+Geen smaak,0.2,55+
+Gevoel van vermoeidheid of uitgeput,1.5,55+
+Hoesten,2.8,55+
+Hoofdpijn,3.4,55+
+Koorts,0.4,55+
+Kortademigheid,1.7,55+
+Koude rillingen,0.8,55+
+Loopneus of verstopte neus,5.4,55+
+Misselijkheid,0.5,55+
+Niezen,4.4,55+
+Overgeven,0.1,55+
+Pijn in de buik,0.8,55+
+Pijn op de borst,0.6,55+
+Spier of gewrichtspijn,1.7,55+
+Verkleurd slijm,0.2,55+
+Verminderde eetlust,0.3,55+
+Waterige of bloeddoorlopen ogen,0.3,55+
+Zere keel,2.2,55+
