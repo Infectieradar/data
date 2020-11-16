@@ -1,4 +1,4 @@
-"gemeentena","gem_nr","weeknumber","tot_inwoners","Aantal_deelnemers","Deelnemers_per_10000_inwoners","tot_responders","tot_cases","perc_case","Wekelijkse_rapporten_per_10000_inwoners"
+"Gemeente","gem_code","Weeknummer","totaal_aantal_inwoners","Aantal_deelnemers","Deelnemers_per_10000_inwoners","Absoluut_aantal_meldingen","Absoluut_aantal_met_COVIDachtige_klachten","Percentage_met_COVIDachtige_klachten","Aantal_meldingen_per_10000_inwoners"
 "'s-Gravenhage",518,42,537765,1,0.02,1,1,1,0.02
 "'s-Gravenhage",518,43,537765,92,1.71,67,4,0.06,1.25
 "'s-Gravenhage",518,44,537765,243,4.52,167,9,0.054,3.11
