@@ -1,4 +1,4 @@
-"Veiligheidsregio","Weeknummer","Percentage_met_COVIDachtige_klachten","Deelnemers_per_100000_inwoners","Aantal_meldingen_per_100000_inwoners"
+"geb_naam","Weeknummer","Percentage_met_COVIDachtige_klachten","Deelnemers_per_100000_inwoners","Aantal_meldingen_per_100000_inwoners"
 "Amsterdam-Amstelland","42",0.125,0.84,0.75
 "Amsterdam-Amstelland","43",0.085,13.64,9.9
 "Amsterdam-Amstelland","44",0.079,37.92,23.63
